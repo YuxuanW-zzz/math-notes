@@ -1,0 +1,21 @@
+# Local agent state and credentials
+.agents/
+.aws/
+.codex/
+.claudian/
+
+# Temporary exports and rendered pages
+tmp/
+
+# Obsidian local UI state and installed plugin files
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+.trash/
+
+# OS files and local secrets
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
